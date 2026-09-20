@@ -4,6 +4,6 @@ adding 1st lin
 duplicate line
 name = input("Enter your name: ")
 message = greet(name)
-
+hello
 print(message)
 print("This is my first Git commit demonstration.")
