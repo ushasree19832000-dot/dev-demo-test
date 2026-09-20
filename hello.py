@@ -1,7 +1,7 @@
 def greet(name):
     return f"Hello, {name}! Welcome to the Northwind project."
 
-
+duplicate line
 name = input("Enter your name: ")
 message = greet(name)
 
