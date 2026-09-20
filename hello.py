@@ -7,3 +7,4 @@ message = greet(name)
 hello
 print(message)
 print("This is my first Git commit demonstration.")
+print(message)
