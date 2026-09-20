@@ -6,3 +6,4 @@ name = input("Enter your name: ")
 message = greet(name)
 
 print(message)
+print("This is my first Git commit demonstration.")
