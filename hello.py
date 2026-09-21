@@ -7,6 +7,7 @@ added githook
 message = greet(name)
 hello
 add duplicate line
+added hook
 print(message)
 print("This is my first Git commit demonstration.")
 print(message)
