@@ -3,6 +3,7 @@ def greet(name):
 adding 1st lin
 duplicate line
 name = input("Enter your name: ")
+added githook
 message = greet(name)
 hello
 add duplicate line
